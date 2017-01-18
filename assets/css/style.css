@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+  border-style: none;
+}
+
+.jumbotron {
+	background-color: transparent;
+}
+
+.panel-body {
+	background-color: transparent;
+}
+
+.col-lg-12 {
+	margin-top: -100px
+}
+
+.button:hover {
+
+	background-color: #3e8e41;
+}
+
+#giphy-display img {
+    width: 100%;
+}
+
+
+
