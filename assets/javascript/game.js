@@ -1,4 +1,4 @@
-var buttons = ['Kim Kardashian', 'Donald Trump', 'Hillary Clinton', 'Snoop Dogg','Vodka', 'Dogs', 'Cats', 'Bacon'];
+var buttons = ['Web Development', 'JavaScript', 'Miami', 'Epic Fail','Happy Birthday', 'Dogs', 'Cats', 'Bacon'];
 
 // Calls AJAX on button click
 
