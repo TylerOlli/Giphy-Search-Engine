@@ -11,7 +11,7 @@ function grabGIF(event) {
             method: 'GET',
             dataType: 'json',
             data: { 
-            api_key: 'dc6zaTOxFJmzC',
+            api_key: 'ECDNjO6FMafHFbjDojFQe7p25wZIzUf5',
             q: search,
             limit: 100 
             },
